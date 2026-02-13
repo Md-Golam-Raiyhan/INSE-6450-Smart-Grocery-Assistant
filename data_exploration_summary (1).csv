@@ -1,0 +1,5 @@
+dataset,num_rows,num_cols,missing_total,duplicate_rows
+pantry,15,6,0,0
+consumption_log,90,4,0,0
+recipes,10,7,0,0
+user_profile,1,5,0,0

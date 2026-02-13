@@ -1,0 +1,11 @@
+recipe_id,recipe_name,ingredients,cooking_time_min,cost_level,diet,allergens
+1,Vegetable Fried Rice,"Rice,Onion,Tomato,Spinach",25,low,veg,none
+2,Chicken Fried Rice,"Rice,Chicken,Eggs,Onion",30,medium,non-veg,egg
+3,Egg Curry,"Eggs,Onion,Tomato",20,low,non-veg,egg
+4,Lentil Soup,"Lentils,Onion,Tomato",35,low,veg,none
+5,Pasta with Tomato,"Pasta,Tomato,Onion,Cheese",25,medium,veg,milk
+6,Omelette,"Eggs,Onion,Spinach",15,low,veg,egg
+7,Chicken & Potatoes,"Chicken,Potato,Onion",40,medium,non-veg,none
+8,Fruit Bowl,"Apple,Banana,Yogurt",10,low,veg,milk
+9,Milk Banana Smoothie,"Milk,Banana,Yogurt",10,low,veg,milk
+10,Rice & Lentils,"Rice,Lentils,Onion",30,low,veg,none
